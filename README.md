@@ -1,6 +1,6 @@
 
 <h1>👋 Bem-vindo</h1>
-<p>Você está no meu perfil do GitHub! <br/>Eu sou Willian,  <b>Software Developer</b> na <a href="https://www.aquarela.cc/" target="_blank">Aquarela  Systems</a> nativo do  🇧🇷  em <b>São Paulo</b>.</p>
+<p>Você está no meu perfil do GitHub! <br/>Eu sou Willian,  <b>Software Developer</b> na <a href="https://www.aquarela.cc/" target="_blank">Aquarela  Systems</a> nativo do 🇧🇷 em <b>São Paulo</b>.</p>
 <p>Eu amo tudo de tecnologia, e sou especializado em PHP e Golang. 
 A maior parte do meu 💼 atual é criar integrações para APIs e desenvolver soluções customizadas para lojas virtuais, marketplaces e sistemas LMS no WordPress.</p>
 <p>
