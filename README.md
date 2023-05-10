@@ -4,7 +4,7 @@
 <p>Eu amo tudo de tecnologia, e sou especializado em PHP e Golang. 
 A maior parte do meu 💼 atual é criar integrações para APIs e desenvolver soluções customizadas para lojas virtuais, marketplaces e sistemas LMS no WordPress.</p>
 <p>
-  Na <b>Aquarela Systems</b>, oferecemos outros tipos de serviços:
+  Na <b>Aquarela Technology</b>, oferecemos outros tipos de serviços:
   
  - Integrações  e conexões entre Sistemas
  - Desenvolvimento de SDKs para as mais diversas linguagens de programação
