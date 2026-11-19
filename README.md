@@ -19,7 +19,11 @@ Aqui criamos soluções que possibilitam economia de tempo e recursos, enquanto 
 </p>
 <h2>✍ Meus últimos projetos</h2>
 <ul>
+  
+  <li><a href="https://github.com/santanamic/wp-broadcast-lifterlms"><b>openapi-mcp</b></a> - Servidor MCP genérico que transforma operações descritas em documentos OpenAPI em ferramentas MCP, executando as chamadas por HTTP.</li>
   <li><a href="https://github.com/santanamic/wp-broadcast-lifterlms"><b>wp-broadcast-lifterlms</b></a> - Permite que recursos do LifterLMS sejam transmitidos corretamente no Broadcast</li>
+  <li><a href="https://github.com/santanamic/wp-broadcast-lifterlms"><b>wp-broadcast-lifterlms</b></a> - Permite que recursos do LifterLMS sejam transmitidos corretamente no Broadcast</li>
+  <li><a href="https://github.com/aquapress-br/woocommerce-pagarme"><b>woocommerce-pagarme</b></a> - Gateway de Pagamento Pagar.me para WooCommerce</li>
   <li><a href="https://github.com/santanamic/wp-omie-export"><b>wp-omie-export</b></a> - Permitir a exportação das ordens de venda do Doakn e Pagar.me</li>
   <li><a href="https://github.com/santanamic/wc-premium-checkout"><b>wc-premium-checkout</b></a> - Checkout toolkit para lojas WooCommerce</li>
   <li><a href="https://github.com/santanamic/php-latamgateway-sdk"><b>php-latamgateway-sdk</b></a> - SDK para API Latam Gateway</li>
